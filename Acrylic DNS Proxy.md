@@ -13,8 +13,10 @@
 ![](assets/Pasted%20image%2020260909204032.png)
 
 *   **For the primary server address** (near the top):
+    
     ![](assets/Pasted%20image%2020260909204138.png)
 *   **OPTIONAL: For the secondary server address:**
+    
     ![](assets/Pasted%20image%2020260909204252.png)
 *   **Remove the `;`** to enable all PCs to request for DNS (near the bottom).
 
